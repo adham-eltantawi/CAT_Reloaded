@@ -25,7 +25,9 @@ This repository reflects my continuous growth in problem-solving, algorithms, an
 - Missing number
 
 ### **Week 3**
+- Pandas
 
+### **Week 4**
 
 ---
 
